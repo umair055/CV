@@ -226,7 +226,5 @@ body{
     .contact ul{
         flex-direction: column;
     }
-    .introduction{
-        text-align: center;
-    }
+
 }
