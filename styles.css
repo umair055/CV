@@ -232,5 +232,11 @@ body{
         margin-left: 3%;
         margin-right: 3%;
     }
+    .left-side div{
+        width: 350px;
+    }
+    .right-side div{
+        width: 350px;
+    }
 
 }
