@@ -223,6 +223,7 @@ body{
     }
     .contact ul{
         flex-direction: column;
+        padding-left: 5px;
     }
     .contact{
         padding-left: 2px;
