@@ -224,5 +224,8 @@ body{
     .contact ul{
         flex-direction: column;
     }
+    .contact{
+        padding-left: 2px;
+    }
 
 }
