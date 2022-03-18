@@ -229,8 +229,7 @@ body{
         padding-left: 2px;
     }
     .body{
-        margin-left: 3%;
-        margin-right: 3%;
+        margin: 0;
     }
     .left-side div{
         width: 350px;
