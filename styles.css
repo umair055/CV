@@ -227,5 +227,9 @@ body{
     .contact{
         padding-left: 2px;
     }
+    .body{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
 
 }
